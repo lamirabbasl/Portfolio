@@ -1,0 +1,9 @@
+ Hi! I am Amirabbas Gholami. I work as a Junior Frontend Developer also
+          as a Junior Devops Engineer. I had studies in both fileds and like
+          have a deep understanding in both of them. I usually use React js for
+          creating websites becuse it give more flexebility and scallability to
+          projects. on other side in Devops filed i also use Docker for
+          dockerize projects and apps , Gitlab CI/CD for make automation in
+          development nad deployment, Ansible for make automation in
+          configurations and kubernetes for manage and loadbalacing in large
+          scale projects and Prometheus for monitoring.

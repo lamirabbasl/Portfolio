@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poetsen+One&family=Sedan+SC&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Freeman&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: black;
+}
+
+@keyframes farmerMotion {
+  0% {
+    transform: translateX(150px);
+    opacity: 1;
+  }
+}
+
+.animate-farmerMotion {
+  animation: farmerMotion 1s ease-out;
+}
